@@ -1,7 +1,7 @@
 # Motion_Detector
 Simple Motion Detection System Built Using Python &amp; Open CV
 
-## Press "S" To Start The Tracking After Alarm Detection, Press "Q" to quit
+## Press "S" To Start The Tracking, After Alarm Detection, Press "Q" to quit
 Built using python open cv library
 
 ### Configure Multiple Camera
